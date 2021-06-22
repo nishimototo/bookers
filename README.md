@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+読んだ本の感想を投稿するサイト
 
 Things you may want to cover:
 
