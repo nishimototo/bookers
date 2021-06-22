@@ -1,6 +1,7 @@
 # README
-
-読んだ本の感想を投稿するサイト
+DMM WEBCAMP「アプリケーションを完成させよう」8章の提出課題です
+## 内容
+読んだ本の感想を投稿するサイトです
 
 Things you may want to cover:
 
